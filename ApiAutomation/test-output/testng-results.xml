@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4082" started-at="2018-04-07T13:24:44Z" finished-at="2018-04-07T13:24:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4082" started-at="2018-04-07T13:24:44Z" finished-at="2018-04-07T13:24:48Z">
+      <class name="ApiAutomation.ApiAutomation.GetRequest">
+        <test-method status="PASS" signature="fetchPropData()[pri:0, instance:ApiAutomation.ApiAutomation.GetRequest@457e2f02]" name="fetchPropData" is-config="true" duration-ms="9" started-at="2018-04-07T18:54:44Z" finished-at="2018-04-07T18:54:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchPropData -->
+        <test-method status="PASS" signature="printLogsForParamsAndBody()[pri:0, instance:ApiAutomation.ApiAutomation.GetRequest@457e2f02]" name="printLogsForParamsAndBody" duration-ms="4054" started-at="2018-04-07T18:54:44Z" finished-at="2018-04-07T18:54:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printLogsForParamsAndBody -->
+      </class> <!-- ApiAutomation.ApiAutomation.GetRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
